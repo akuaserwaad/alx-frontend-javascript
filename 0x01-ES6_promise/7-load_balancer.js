@@ -10,5 +10,5 @@
  * the given promises resolve or reject.
  */
 export default function loadBalancer(chinaDownload, USDownload) {
-    return Promise.race([chinaDownload, USDownload]);
-  }
+  return Promise.race([chinaDownload, USDownload]);
+}
