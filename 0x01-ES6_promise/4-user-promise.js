@@ -7,8 +7,8 @@
  * object containing the provided first name and last name.
  */
 export default function signUpUser(firstName, lastName) {
-    return Promise.resolve({
-      firstName,
-      lastName,
-    });
-  }
+  return Promise.resolve({
+    firstName,
+    lastName,
+  });
+}
