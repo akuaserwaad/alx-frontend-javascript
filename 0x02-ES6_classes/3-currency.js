@@ -1,4 +1,3 @@
-
 /*
 Implement a class named Currency:
 
