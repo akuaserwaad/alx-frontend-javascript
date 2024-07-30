@@ -1,4 +1,3 @@
-
 /**
  * Creates an Int8 typed array with a specified length, setting a value at a given position.
  *
