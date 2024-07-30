@@ -1,4 +1,3 @@
-
 /**
  * Updates student grades based on the city they are located in using
  * Object.assign for immutability.
