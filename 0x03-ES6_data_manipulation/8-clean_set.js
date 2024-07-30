@@ -1,4 +1,3 @@
-
 /**
  * Returns a string of set values that start with a specific string.
  *
