@@ -1,4 +1,3 @@
-
 /**
  * Updates the quantity to 100 for items with an initial quantity of 1 in the map.
  *
