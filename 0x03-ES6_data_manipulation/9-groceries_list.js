@@ -1,4 +1,3 @@
-
 /**
  * Creates a groceries list with items and quantities using a Map.
  *
