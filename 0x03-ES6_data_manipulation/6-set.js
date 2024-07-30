@@ -1,4 +1,3 @@
-
 /**
  * Creates a new Set from an array.
  *
