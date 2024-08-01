@@ -19,7 +19,7 @@ export const printTeacher: printTeacherFunction = (firstName: string, lastName: 
   return `${firstName[0]}. ${lastName}`;
 };
 
-console.log(printTeacher("Soufiane", "Sadgali"));
+console.log(printTeacher("Akua", "Serwaa"));
 
 export interface stConstructor {
   new (firstName: string, lastName: string): StudentInterface;
